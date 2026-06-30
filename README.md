@@ -6,7 +6,7 @@
 
 Telegram chatbot built with **n8n**, **Cohere**, **MySQL**, and **Retrieval-Augmented Generation (RAG)** during the Oracle + Alura AI Agents immersion.
 
-[n8n](https://n8n.io/) | [Cohere](https://cohere.com/) | [MySQL](https://www.mysql.com/) | [Telegram Bot API](https://core.telegram.org/bots/api) | RAG | Railway
+[n8n](https://n8n.io/) | [Cohere](https://cohere.com/) | [MySQL](https://www.mysql.com/) | [Telegram Bot API](https://core.telegram.org/bots/api) | RAG | [Railway](https://railway.com/)
 
 </div>
 
